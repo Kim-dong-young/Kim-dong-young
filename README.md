@@ -2,7 +2,7 @@
 
 개발을 통해 더 나은 세상을 만드는 것을 목표로 합니다.
 
-🌱 Velog에서 기술 블로그 운영 중!
+🌱 ###[Velog에서 기술 블로그 운영 중](https://velog.io/@rlaehddud9502/posts)!
 
 🛠️ 기술 스택
 
@@ -56,8 +56,8 @@ Cloud
 
 📬 연락처
 
-Email: your-email@example.com
+Email: rlaehddud9502@naver.com
 
-Blog: Velog 블로그
+Blog: ###[Velog 블로그](https://velog.io/@rlaehddud9502/posts)!
 
 언제든지 소통 환영입니다!
